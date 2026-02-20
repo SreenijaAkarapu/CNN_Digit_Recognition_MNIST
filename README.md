@@ -76,7 +76,8 @@ cnn_infer.py           # Single-image inference script
 evaluate_accuracy.py   # Accuracy evaluation on MNIST test set  
 visual_test.py         # Visual prediction verification  
 export_onnx.py         # PyTorch → ONNX conversion script  
-images/                # Sample MNIST test images  
+images/                # Sample MNIST test images
+screenshots/           # Output Screenshots 
 labels.csv             # Ground-truth labels  
 requirements.txt       # Python dependencies  
 ```
